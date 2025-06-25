@@ -1,9 +1,3 @@
-Excelente ideia! Criar uma plataforma que unifica a criação de fluxos conversacionais (a la **evoai.co**) com a garantia de qualidade e testes automatizados (a la **Cyara**) é uma proposta de valor muito poderosa. O nome **ChatGrail** é perfeito, sugerindo a busca pelo "santo graal" da experiência do cliente: um chatbot que não só é inteligente, mas também infalível.
-
-A seguir, apresento uma estrutura de pastas e arquivos, juntamente com uma descrição técnica detalhada para o projeto **ChatGrail**.
-
----
-
 ### 1. Arquitetura Conceitual do ChatGrail
 
 *   **Módulo de Criação (Flow Studio):** Uma interface visual (React) onde os usuários podem desenhar fluxos de conversação usando nós (nodes) e arestas (edges). Esses fluxos são salvos como uma estrutura de dados (ex: JSON) no backend. Esta é a funcionalidade inspirada na **evoai.co**.
